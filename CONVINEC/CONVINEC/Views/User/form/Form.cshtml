@@ -1,0 +1,57 @@
+﻿@model CONVINEC.Models.User
+
+<div class="col-md-12">
+    <div class="card shadow-lg p-3 mb-5 bg-white rounded">
+        <img src="~/Content/assets/img/logo2.png" class="img-fluid mx-auto d-block">
+        <div class="card-body">
+            <hr />
+            @using (Html.BeginForm("Create", "User", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                <div class="form-row">
+                    <div class="form-group col-md-4">
+                        @Html.LabelFor(model => model.DNI)
+                        @Html.EditorFor(model => model.DNI, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ingrese su Cédula", @type = "text", @required = true, mask = "9-0999-0999" } })
+                        @Html.ValidationMessageFor(model => model.DNI, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group col-md-4">
+                        @Html.LabelFor(model => model.fullName)
+                        @Html.EditorFor(model => model.fullName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ingrese su Nombre", @type = "text", @required = true } })
+                        @Html.ValidationMessageFor(model => model.fullName, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group col-md-4">
+                        @Html.LabelFor(model => model.birthdate)
+                        @Html.EditorFor(model => model.birthdate, new { htmlAttributes = new { @required = true } })
+                        @Html.ValidationMessageFor(model => model.birthdate, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        @Html.LabelFor(model => model.email)
+                        @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ingrese su Correo Electrónico", @type = "email", @required = true } })
+                        @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group col-md-6">
+                        @Html.LabelFor(model => model.fkOccupation, "Profesión")
+                        @Html.DropDownList("fkOccupation", null, "Seleccione una Opción", htmlAttributes: new { @class = "form-control", @required = true })
+                        @Html.ValidationMessageFor(model => model.fkOccupation, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group" id="MainAddress">
+                    <input id="mapLocation" hidden />
+                    @Html.LabelFor(model => model.address)
+                    @Html.EditorFor(model => model.address, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ingrese su Dirección", @type = "text", @required = true } })
+                    @Html.ValidationMessageFor(model => model.address, "", new { @class = "text-danger" })
+                    <div id="map" style="height: 100%; min-height: 366px"></div>
+                </div>
+                <hr />
+                <div class="btn-group offset-8" role="group" aria-label="Basic example">
+                    @Html.ActionLink("Cancelar", "Index", "Home", null, new { @class = "btn btn-light" })
+                    <button type="reset" class="btn btn-danger">Limpiar</button>
+                    <button type="submit" class="btn btn-primary">Aceptar</button>
+                </div>
+            }
+        </div>
+
+    </div>
+</div>

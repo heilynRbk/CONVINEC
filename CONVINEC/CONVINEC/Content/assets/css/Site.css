@@ -1,0 +1,12 @@
+﻿/*Global Styles*/
+:root{
+  
+}
+
+.card-button {
+    cursor: pointer;
+    transition: transform .5s;
+}
+    .card-button:hover {
+        transform: scale(0.9) rotate(1deg);
+    }

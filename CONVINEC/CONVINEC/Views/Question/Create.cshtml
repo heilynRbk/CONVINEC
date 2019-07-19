@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Crear Consulta";
+}
+
+@section styles{
+    <link href="~/Content/bundle/create.min.css" rel="stylesheet" />
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css">
+}
+<div class="breadcrumb-wrapper">
+    <h1>CONVINEC</h1>
+
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb p-0">
+            <li class="breadcrumb-item">
+                <a>
+                    <span class="mdi mdi-home"></span>
+                </a>
+            </li>
+            <li class="breadcrumb-item">
+                Acciones
+            </li>
+            <li class="breadcrumb-item" aria-current="page">Realizar Consulta</li>
+        </ol>
+    </nav>
+</div>
+@Html.Partial("form/Query", null)
+
+@section scripts{
+    <script src="~/Content/bundle/create.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#description").editor();
+            $('#fkTopic').select2({
+                theme: 'bootstrap4',
+                width: 'style'
+            });
+
+            var d = new Date();
+
+            var month = d.getMonth() + 1;
+            var day = d.getDate();
+
+            var output = d.getFullYear() + '-' +
+                (month < 10 ? '0' : '') + month + '-' +
+                (day < 10 ? '0' : '') + day;
+            
+            $('#date').val(output);
+        });
+    </script>
+
+}

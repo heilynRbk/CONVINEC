@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Inicio";
+}
+<div class="breadcrumb-wrapper">
+    <h1>CONVINEC</h1>
+
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb p-0">
+            <li class="breadcrumb-item">
+                <a >
+                    <span class="mdi mdi-home"></span>
+                </a>
+            </li>
+            <li class="breadcrumb-item">
+                Dashboard
+            </li>
+            <li class="breadcrumb-item" aria-current="page">Inicio</li>
+        </ol>
+    </nav>
+
+</div>
+@Html.Partial("home/Slider", null)
+@Html.Partial("home/Descriptions", null)

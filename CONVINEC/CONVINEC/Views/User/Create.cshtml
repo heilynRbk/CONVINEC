@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Suscripción";
+}
+@section styles{
+    <link href="~/Content/bundle/create.min.css" rel="stylesheet" />
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css">
+}
+<div class="breadcrumb-wrapper">
+    <h1>CONVINEC</h1>
+
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb p-0">
+            <li class="breadcrumb-item">
+                <a>
+                    <span class="mdi mdi-home"></span>
+                </a>
+            </li>
+            <li class="breadcrumb-item">
+                Acciones
+            </li>
+            <li class="breadcrumb-item" aria-current="page">Suscripción</li>
+        </ol>
+    </nav>
+</div>
+@Html.Partial("form/Form", null)
+@section scripts{
+    <script src="~/Content/bundle/create.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA0wDYFFa15nNd404-XV1C7h4eaUNPwpl8&amp;libraries=places&amp;callback=initMap"></script>
+}

@@ -1,0 +1,415 @@
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\CONVINEC.dll.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\CONVINEC.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\CONVINEC.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\csc.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\csc.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\csc.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\csi.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\csi.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\csi.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.AppContext.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Console.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Net.Http.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\vbc.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\vbc.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\vbc.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\Antlr3.Runtime.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\Newtonsoft.Json.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.Helpers.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.Mvc.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.Optimization.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.Razor.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.WebPages.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\WebGrease.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\Antlr3.Runtime.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\Newtonsoft.Json.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.Helpers.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.Mvc.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.Optimization.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.Razor.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.WebPages.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csprojAssemblyReference.cache
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CopyComplete
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\obj\Debug\CONVINEC.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\CONVINEC\CONVINEC\obj\Debug\CONVINEC.pdb
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\CONVINEC.dll.config
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\CONVINEC.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\CONVINEC.pdb
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\csc.exe
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\csc.exe.config
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\csc.rsp
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\csi.exe
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\csi.exe.config
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\csi.rsp
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.AppContext.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Console.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Net.Http.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\vbc.exe
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\vbc.exe.config
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\vbc.rsp
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\Antlr3.Runtime.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\Newtonsoft.Json.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.Helpers.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.Mvc.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.Optimization.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.Razor.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.WebPages.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\WebGrease.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\Antlr3.Runtime.pdb
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\Newtonsoft.Json.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.Helpers.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.Mvc.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.Optimization.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.Razor.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.WebPages.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csprojAssemblyReference.cache
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CoreCompileInputs.cache
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CopyComplete
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\obj\Debug\CONVINEC.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\obj\Debug\CONVINEC.pdb
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\EntityFramework.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\EntityFramework.SqlServer.dll
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\EntityFramework.xml
+C:\Users\Extreme Tech\Desktop\CONVINEC\CONVINEC\bin\EntityFramework.SqlServer.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\CONVINEC.dll.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\CONVINEC.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\CONVINEC.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\csc.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\csc.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\csc.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\csi.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\csi.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\csi.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.AppContext.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Console.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Net.Http.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\vbc.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\vbc.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\vbc.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\Antlr3.Runtime.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\EntityFramework.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\EntityFramework.SqlServer.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\Newtonsoft.Json.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.Helpers.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.Mvc.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.Optimization.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.Razor.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.WebPages.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\WebGrease.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\Antlr3.Runtime.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\EntityFramework.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\EntityFramework.SqlServer.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\Newtonsoft.Json.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.Helpers.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.Mvc.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.Optimization.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.Razor.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.WebPages.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csprojAssemblyReference.cache
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CopyComplete
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\obj\Debug\CONVINEC.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\v2\CONVINEC\CONVINEC\obj\Debug\CONVINEC.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\CONVINEC.dll.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\CONVINEC.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\CONVINEC.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\csc.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\csc.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\csc.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\csi.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\csi.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\csi.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.AppContext.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Console.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Net.Http.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\vbc.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\vbc.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\vbc.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\Antlr3.Runtime.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\EntityFramework.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\EntityFramework.SqlServer.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\Newtonsoft.Json.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.Helpers.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.Mvc.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.Optimization.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.Razor.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.WebPages.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\WebGrease.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\Antlr3.Runtime.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\EntityFramework.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\EntityFramework.SqlServer.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\Newtonsoft.Json.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.Helpers.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.Mvc.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.Optimization.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.Razor.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.WebPages.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csprojAssemblyReference.cache
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CopyComplete
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\obj\Debug\CONVINEC.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V4\CONVINEC\CONVINEC\obj\Debug\CONVINEC.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\CONVINEC.dll.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\CONVINEC.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\CONVINEC.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\csc.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\csc.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\csc.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\csi.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\csi.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\csi.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.AppContext.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Console.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Net.Http.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\vbc.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\vbc.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\vbc.rsp
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\Antlr3.Runtime.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\EntityFramework.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\EntityFramework.SqlServer.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\Newtonsoft.Json.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.Helpers.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.Mvc.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.Optimization.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.Razor.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.WebPages.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\WebGrease.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\Antlr3.Runtime.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\EntityFramework.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\EntityFramework.SqlServer.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\Newtonsoft.Json.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.Helpers.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.Mvc.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.Optimization.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.Razor.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.WebPages.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csprojAssemblyReference.cache
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.CopyComplete
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\obj\Debug\CONVINEC.dll
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\obj\Debug\CONVINEC.pdb
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\obj\Debug\CONVINEC.Migrations.Maxvalue.resources
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\obj\Debug\CONVINEC.csproj.GenerateResource.cache
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\obj\Debug\CONVINEC.Migrations.Maxvalue2.resources
+C:\Users\Pablo Madrigal\Desktop\Pablo\Fidelitas\VI Cuatrimestre\Programacion5\proyecto\V5\CONVINEC\CONVINEC\obj\Debug\CONVINEC.Migrations.UniqueValues.resources

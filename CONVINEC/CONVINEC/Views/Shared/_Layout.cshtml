@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CONVINEC - @ViewBag.Title</title>
+    <!-- GOOGLE FONTS -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    <link href="https://cdn.materialdesignicons.com/3.0.39/css/materialdesignicons.min.css" rel="stylesheet" />
+    <!-- SLEEK CSS -->
+    <link id="sleek-css" rel="stylesheet" href="~/Content/assets/css/sleek.css" />
+    <!-- FAVICON -->
+    <link href="~/Content/assets/img/favicon.png" rel="shortcut icon" />
+    <!-- SITE STYLES-->
+    <link href="~/Content/assets/css/Site.css" rel="stylesheet" />
+
+    @RenderSection("styles", required: false)
+</head>
+
+<body class="header-fixed sidebar-fixed sidebar-dark header-light" id="body">
+    <div class="wrapper">
+        <!--
+          ====================================
+          ——— LEFT SIDEBAR WITH FOOTER
+          =====================================
+        -->
+        <aside class="left-sidebar bg-sidebar">
+            <div id="sidebar" class="sidebar sidebar-with-footer">
+                <!-- Aplication Brand -->
+                <div class="app-brand">
+                    <a>
+                        <img src="~/Content/assets/img/sleek-icon.png" width="30" height="33" alt="">
+                        <span class="brand-name">CONVINEC</span>
+                    </a>
+                </div>
+                <!-- begin sidebar scrollbar -->
+                <div class="sidebar-scrollbar">
+                    <!-- sidebar menu -->
+                    <ul class="nav sidebar-inner" id="sidebar-menu">
+                        <li class="has-sub expand">
+                            <a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse" data-target="#dashboard" aria-expanded="false" aria-controls="dashboard">
+                                <i class="mdi mdi-view-dashboard-outline"></i>
+                                <span class="nav-text">Dashboard</span> <b class="caret"></b>
+                            </a>
+                            <ul class="collapse show" id="dashboard" data-parent="#sidebar-menu">
+                                <div class="sub-menu">
+                                    <li>
+                                        @Html.ActionLink("Inicio", "Index", "Home", null, new { @class = "sidenav-item-link" })
+                                    </li>
+                                    <li>
+                                        @Html.ActionLink("DashBoard", "Index", "Home", null, new { @class = "sidenav-item-link" })
+
+                                    </li>
+                                </div>
+                            </ul>
+                        </li>
+                        <li class="has-sub expand">
+                            <a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse" data-target="#acciones" aria-expanded="false" aria-controls="acciones">
+                                <i class="mdi mdi-book-open-page-variant"></i>
+                                <span class="nav-text">Acciones</span> <b class="caret"></b>
+                            </a>
+                            <ul class="collapse show" id="acciones" data-parent="#sidebar-menu">
+                                <div class="sub-menu">
+                                    <li>
+                                        @Html.ActionLink("Suscripción", "Suscripcion", "User", null, new { @class = "sidenav-item-link" })
+                                    </li>
+                                    <li>
+                                        @Html.ActionLink("Foro", "Index", "Question", null, new { @class = "sidenav-item-link" })
+                                    </li>
+                                </div>
+                            </ul>
+                        </li>
+
+                        <li class="has-sub expand">
+                            <a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse" data-target="#info" aria-expanded="false" aria-controls="info">
+                                <i class="mdi mdi-home-currency-usd"></i>
+                                <span class="nav-text">Información</span> <b class="caret"></b>
+                            </a>
+                            <ul class="collapse show" id="info" data-parent="#sidebar-menu">
+                                <div class="sub-menu">
+                                    <li>
+                                        @Html.ActionLink("Indicadores Financieros", "Index", "Home", null, new { @class = "sidenav-item-link" })
+                                    </li>
+                                    <li>
+                                        @Html.ActionLink("¿Quiénes Somos?", "About", "Home", null, new { @class = "sidenav-item-link" })
+                                    </li>
+                                </div>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </aside>
+        <div class="page-wrapper">
+            <!-- Header -->
+            <header class="main-header shadow bg-white rounded" id="header">
+                <nav class="navbar navbar-static-top navbar-expand-lg">
+                    <!-- Sidebar toggle button -->
+                    <button id="sidebar-toggler" class="sidebar-toggle">
+                        <span class="sr-only">Toggle navigation</span>
+                    </button>
+                    <div class="col clearfix">
+                        <button type="button" class="mb-1 btn btn-google-plus rounded-circle float-right">
+                            <i class="mdi mdi-google-plus"></i>
+                        </button>
+                        <button type="button" class="mb-1 btn btn-linkedin rounded-circle float-right">
+                            <i class="mdi mdi-linkedin"></i>
+                        </button>
+                        <button type="button" class="mb-1 btn btn-twitter rounded-circle float-right">
+                            <i class="mdi mdi-twitter"></i>
+                        </button>
+                        <button type="button" class="mb-1 btn btn-facebook rounded-circle float-right">
+                            <i class="mdi mdi-facebook"></i>
+                        </button>
+                    </div>
+                </nav>
+            </header>
+            <div class="content-wrapper">
+                <div class="content">
+                    @RenderBody()
+                </div>
+            </div>
+
+            <footer class="footer mt-auto">
+                <div class="copyright bg-white">
+                    <p>
+                        &copy; <span id="copy-year">2019</span> Sistema para consulta y visualización de indicadores económicos
+                    </p>
+                </div>
+            </footer>
+
+        </div>
+    </div>
+    <script src="~/Content/bundle/layout.min.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>
