@@ -1,0 +1,33 @@
+﻿@model CONVINEC.Models.Question
+<div class="col-md-12">
+    <div class="card shadow-lg p-3 mb-5 bg-white rounded">
+        <img src="~/Content/assets/img/logo2.png" class="img-fluid mx-auto d-block">
+        <div class="card-body">
+            <div class="media mt-5 profile-timeline-media">
+                <div class="align-self-start iconbox-48 overflow-hidden mr-3">
+                    <img src="~/Content/assets/img/foro/pregunta.jpg" alt="Generic placeholder image">
+                </div>
+                <div class="media-body">
+                    <h6 class="mt-0 text-dark"> @Html.DisplayFor(model => model.fullName)</h6>
+                    <span>@Html.DisplayFor(model => model.Topic.description)</span>
+                    <span class="float-right">@Html.DisplayFor(model => model.date)</span>
+                    <h6>@Html.DisplayFor(model => model.tittle)</h6>
+                    <p>
+                        @Html.Raw(ViewBag.description)
+                    </p>
+                    <div class="d-inline-block rounded overflow-hidden mt-4 mr-0 mr-lg-4 float-right">
+                        <span class="mdi mdi-eye">10</span>
+                    </div>
+                    <div class="d-inline-block rounded overflow-hidden mt-4 mr-0 mr-lg-4 float-right">
+                        <span class="mdi mdi-comment-multiple">10</span>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="col-sm-3 offset-9">
+                <button type="button" class="mb-1 btn btn-facebook rounded-circle float-right" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="mdi mdi-comment-multiple"></i></button>
+            </div>
+        </div>
+    </div>
+
+</div>

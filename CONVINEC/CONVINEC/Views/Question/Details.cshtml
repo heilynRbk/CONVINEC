@@ -1,66 +1,36 @@
-﻿@model CONVINEC.Models.Question
-
-@{
-    ViewBag.Title = "Details";
+﻿@{
+    ViewBag.Title = "Foro";
 }
 
-<h2>Details</h2>
+@section styles{
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css">
+}
+<div class="breadcrumb-wrapper">
+    <h1>CONVINEC</h1>
 
-<div>
-    <h4>Question</h4>
-    <hr />
-    <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.Topic.description)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Topic.description)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.fullName)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.fullName)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.date)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.date)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.tittle)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.tittle)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.description)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.description)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.isActive)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.isActive)
-        </dd>
-
-    </dl>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb p-0">
+            <li class="breadcrumb-item">
+                <a>
+                    <span class="mdi mdi-home"></span>
+                </a>
+            </li>
+            <li class="breadcrumb-item">
+                Foro
+            </li>
+            <li class="breadcrumb-item" aria-current="page">Visualizar Consulta</li>
+        </ol>
+    </nav>
 </div>
-<p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.pkQuestion }) |
-    @Html.ActionLink("Back to List", "Index")
-</p>
+@Html.Partial("form/QuestionView", null)
+@Html.Partial("form/Answer", null)
+@Html.Partial("form/Modal", null)
+
+@section scripts{
+    <script src="~/Content/assets/convinec/gijgo/gijgo.min.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#description").editor();
+        });
+    </script>
+}
