@@ -131,6 +131,8 @@
     <Content Include="Content\assets\css\sleek.rtl.css" />
     <Content Include="Content\assets\css\styles.css" />
     <Content Include="Content\assets\img\favicon.png" />
+    <Content Include="Content\assets\img\foro\pregunta.jpg" />
+    <Content Include="Content\assets\img\foro\respuesta.jpg" />
     <Content Include="Content\assets\img\lightenning.png" />
     <Content Include="Content\assets\img\logo2.png" />
     <Content Include="Content\assets\img\sleek-icon.png" />
@@ -780,6 +782,9 @@
     <Content Include="Views\Question\Details.cshtml" />
     <Content Include="Views\Question\Index.cshtml" />
     <Content Include="Views\Question\form\Query.cshtml" />
+    <Content Include="Views\Question\form\QuestionView.cshtml" />
+    <Content Include="Views\Question\form\Modal.cshtml" />
+    <Content Include="Views\Question\form\Answer.cshtml" />
     <None Include="Web References\ws_bccr\wsIndicadoresEconomicos.disco" />
     <Content Include="Web.config" />
   </ItemGroup>

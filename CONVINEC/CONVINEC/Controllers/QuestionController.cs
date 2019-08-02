@@ -29,6 +29,7 @@ namespace CONVINEC.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Question question = db.Question.Find(id);
+            ViewBag.description = question.description;
             if (question == null)
             {
                 return HttpNotFound();
